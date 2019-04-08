@@ -1,0 +1,30 @@
+==Frequent itemsets (min_sup=30.0%)
+[ADULT], 50.0%
+[F], 50.0%
+[SMALL], 50.0%
+[YELLOW], 50.0%
+[STRETCH], 45.0%
+[DIP], 40.0%
+[T,YELLOW], 35.0%
+[PURPLE], 35.0%
+[CHILD], 35.0%
+[SMALL,T], 35.0%
+[T], 35.0%
+[SMALL,YELLOW], 35.0%
+[LARGE], 35.0%
+[F,LARGE], 35.0%
+[SMALL,T,YELLOW], 35.0%
+[F,PURPLE], 35.0%
+[ADULT,YELLOW], 30.0%
+[F,STRETCH], 30.0%
+[ADULT,F], 30.0%
+[ADULT,SMALL], 30.0%
+
+==High-confidence association rules (min_conf=30.0%)
+[PURPLE] => [F] (Conf: 100.0%, Supp: 35.0%)
+[SMALL,YELLOW] => [T] (Conf: 100.0%, Supp: 35.0%)
+[LARGE] => [F] (Conf: 100.0%, Supp: 35.0%)
+[SMALL] => [T] (Conf: 70.0%, Supp: 35.0%)
+[YELLOW] => [T] (Conf: 70.0%, Supp: 35.0%)
+[ADULT] => [F] (Conf: 60.0%, Supp: 30.0%)
+[STRETCH] => [F] (Conf: 66.6666666667%, Supp: 30.0%)
